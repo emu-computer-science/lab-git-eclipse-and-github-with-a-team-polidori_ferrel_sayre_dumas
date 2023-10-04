@@ -8,6 +8,7 @@ public class Driver {
 		Sad.sad();
 		Hungry.hungry();
 		Angry.angry();
+		Angry.another();
 	}
 	
 }
