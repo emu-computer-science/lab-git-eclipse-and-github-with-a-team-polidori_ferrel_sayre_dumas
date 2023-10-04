@@ -8,6 +8,8 @@ public class Driver {
 		Sad.sad();
 		Hungry.hungry();
 		Angry.angry();
+		
+		Glad.TheTruth();
 	}
 	
 }
