@@ -6,6 +6,7 @@ public class Driver {
 		System.out.println("Our team is getting started.");
 		Glad.glad();
 		Sad.sad();
+		Sad.reallysad();
 		Hungry.hungry();
 		Angry.angry();
 	}
