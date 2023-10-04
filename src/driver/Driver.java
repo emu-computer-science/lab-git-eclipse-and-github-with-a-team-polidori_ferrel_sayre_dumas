@@ -9,6 +9,7 @@ public class Driver {
 		Sad.reallysad();
 		Hungry.hungry();
 		Angry.angry();
+		Angry.another();
 	}
 	
 }
